@@ -1,1 +1,2 @@
 # Cryptocurrencies
+Since our goal is to make a new investment in cryptocurrency, We will be using unsupervised learning to find out wich crypto currencies are still trading. Using unsuperviced learning, we will create a classification system to make this investment. Our first step we had to clean the data so it would fit the machine learning. The we used clusterin algorithm to to group the cryptocurrency.
